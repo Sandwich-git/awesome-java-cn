@@ -1,9 +1,111 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T06:59:03.221Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" version="24.5.3" etag="9pCys4QyOSBH-CK_rlHM" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.9">
   <diagram name="第 1 页" id="EEQ50Q7cUada5X08oBrI">
-    <mxGraphModel>
+    <mxGraphModel dx="2032" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-42" value="缺陷分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-770" width="560" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-14" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;用户交互层&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-56" y="70" width="836" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-3" value="小红书攻略博文" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-5" value="抖音旅游博主视频攻略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-6" value="B站美食、旅游博主视频" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-7" value="根据用户输入生成旅游攻略，同时展示引用的攻略来源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="64" y="80" width="700" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-8" value="出发地" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="64" y="150" width="86" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-9" value="预算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="150" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-10" value="人数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="150" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-11" value="日期" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="150" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-12" value="目的地" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="150" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-13" value="特殊需求如带60岁父母、凌晨看日出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="570" y="150" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-21" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;功能模块&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-56" y="230" width="836" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-22" value="攻略信息聚合功能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="64" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-23" value="根据需求智能生成旅行攻略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-24" value="行程时间线可视化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-25" value="行程拖拽修改功能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-26" value="解决用户手动翻找攻略耗时长" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-56" y="-60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-27" value="基于地图api计算真实交通耗时" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-28" value="一站式门票信息预订" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-29" value="偏好记忆" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-30" value="多人协作编辑" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-31" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;存储方式&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-56" y="360" width="836" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-32" value="ES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="64" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-33" value="supabase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-34" value="redis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-35" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;竞品&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-56" y="-690" width="526" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-36" value="圆周旅迹" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-37" value="小旅星" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-38" value="Gooh旅记" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-39" value="无法直接导航至行程、住宿、餐饮预订页面" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-730" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-40" value="无法识别视频攻略" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-740" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-41" value="无法及时获取到最新旅游景点活动信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BiAZ1XBiCVEpgqOGN3Rx-43" value="国外旅行规划覆盖不完善" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-530" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
